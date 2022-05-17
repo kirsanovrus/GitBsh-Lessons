@@ -1,4 +1,4 @@
-text for example
+text for example plus text
 Проверка русского языка 
 second example
 third example.
