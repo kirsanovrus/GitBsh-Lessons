@@ -1,4 +1,5 @@
 text for example plus text
+text for example minus text 
 Проверка русского языка 
 second example
 third example.
