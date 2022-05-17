@@ -4,3 +4,4 @@ text for example minus text
 second example
 third example.
 Add line
+Строка временного хранилища
