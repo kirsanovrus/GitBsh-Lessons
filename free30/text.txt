@@ -1,0 +1,8 @@
+Commands in the lesson: 
+
+* pwd - узнать, где ты
+* cd - смена папки 
+* ls -la - список всех файлов
+* touch lessontext - создать файл
+* vim - открыть файл в строке
+* git status - статус
