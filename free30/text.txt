@@ -6,3 +6,8 @@ Commands in the lesson:
 * touch lessontext - создать файл
 * vim - открыть файл в строке
 * git status - статус
+* git add . 
+  git add file - добавить файл 
+* git commit -m 'text of message' - закоминить 
+* git push - запушить изменения во внешний репозиторий 
+Последние сообщения не пушаться. 
